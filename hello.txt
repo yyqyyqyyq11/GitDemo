@@ -17,3 +17,4 @@ hello yyq hello git
 hello yyq hello git
 hello yyq hello git
 hello yyq hello git master
+hello yyq hello git hot-fix
